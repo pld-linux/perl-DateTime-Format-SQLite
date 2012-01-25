@@ -8,13 +8,13 @@
 Summary:	DateTime::Format::SQLite - Parse and format SQLite dates and times
 #Summary(pl.UTF-8):	
 Name:		perl-DateTime-Format-SQLite
-Version:	0.10
+Version:	0.11
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/DateTime/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	93c0849d25498028f18e10816b9b32b8
+# Source0-md5:	9cc9cc861407a1bbc696226605279842
 URL:		http://search.cpan.org/dist/DateTime-Format-SQLite/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
