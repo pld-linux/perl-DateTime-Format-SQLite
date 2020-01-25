@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	DateTime
 %define	pnam	Format-SQLite
 Summary:	DateTime::Format::SQLite - Parse and format SQLite dates and times
